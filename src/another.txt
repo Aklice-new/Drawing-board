@@ -1,0 +1,1 @@
+Rectangle[x=212.2, y=74.79999999999998, width=309.40000000000003, height=209.39999999999998, fill=0xcccccfff, stroke=0x0000ffff, strokeWidth=1.0]
